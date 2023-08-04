@@ -5,10 +5,9 @@
 
 ## What doing this program?
 * base math steps: +, -, *, /.
-* Coming soon with updates:))
 
 ## Example
 <image src="/Images/Example.png" alt="Example">
 
-## ## Why this program on GitHub?
+## Why this program on GitHub?
 This calculator is published for development and improvement by other github users. Do a Pull and I will take them:)</p>
