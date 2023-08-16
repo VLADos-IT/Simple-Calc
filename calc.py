@@ -18,4 +18,4 @@ else:
 
 if result is not None:
     print('Result:', result)
-wait = input("PRESS ENTER TO CONTINUE... ")
+wait = input("PRESS ENTER TO EXIT... ")
